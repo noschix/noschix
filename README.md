@@ -1,8 +1,6 @@
 ## Hi there I'm [Noah](https://noahraissi.com) 👋
 
-Technology has been my passion since childhood, inspiring me to create solutions that touch lives. My early experiences, such as developing one of the first educational apps for the German iOS App Store and participating in hackathons, have laid the foundation for my entrepreneurial aspirations. I wholeheartedly believe in the power of technology to shape our world and am committed to contributing meaningfully to the digital transformation across industries.
-
-With my most recent works, I have further aligned my skills with my goals. As a Project & Product Manager and UI/X Designer, I have actively contributed to shaping digital healthcare applications, focusing on user-centric innovations that resonate with end-users. Through this experience, I've gained a deeper appreciation for different skillsets, and I've realized the significance of collaboration and constant learning when it comes to driving impactful digital solutions.
+Technology has been my passion since childhood, inspiring me to create solutions that touch lives.
 
 ### Let's shape the planet into a more digitalized and better place. 🚀
 
